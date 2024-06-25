@@ -1,0 +1,4 @@
+game_num, first_player, start_position, total_moves, win, lose, draw
+0, com_1, com_1, middle, 6, com_2, False
+1, com_1, corner, 9, , , True
+2, com_1, side, 7, com_1, com_2, False

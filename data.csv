@@ -1,0 +1,101 @@
+game_ID,starting_player,starting_position,total_moves,win,lose,draw
+1,com_1,side,8,com_2,com_1,False
+2,com_1,side,5,com_1,com_2,False
+3,com_1,side,7,com_1,com_2,False
+4,com_1,side,6,com_2,com_1,False
+5,com_1,side,6,com_2,com_1,False
+6,com_1,side,9, , ,True
+7,com_1,side,7,com_1,com_2,False
+8,com_1,side,6,com_2,com_1,False
+9,com_1,side,9,com_1,com_2,False
+10,com_1,side,9,com_1,com_2,False
+11,com_1,side,8,com_2,com_1,False
+12,com_1,side,5,com_1,com_2,False
+13,com_1,side,5,com_1,com_2,False
+14,com_1,side,5,com_1,com_2,False
+15,com_1,side,7,com_1,com_2,False
+16,com_1,side,8,com_2,com_1,False
+17,com_1,side,6,com_2,com_1,False
+18,com_1,side,7,com_1,com_2,False
+19,com_1,side,7,com_1,com_2,False
+20,com_1,side,9, , ,True
+21,com_1,side,8,com_2,com_1,False
+22,com_1,side,7,com_1,com_2,False
+23,com_1,side,9, , ,True
+24,com_1,side,5,com_1,com_2,False
+25,com_1,side,9, , ,True
+26,com_1,side,8,com_2,com_1,False
+27,com_1,side,9,com_1,com_2,False
+28,com_1,side,9,com_1,com_2,False
+29,com_1,side,9,com_1,com_2,False
+30,com_1,side,9,com_1,com_2,False
+31,com_1,side,9, , ,True
+32,com_1,side,8,com_2,com_1,False
+33,com_1,side,9, , ,True
+34,com_1,side,8,com_2,com_1,False
+35,com_1,side,8,com_2,com_1,False
+36,com_1,side,5,com_1,com_2,False
+37,com_1,side,9,com_1,com_2,False
+38,com_1,side,9, , ,True
+39,com_1,side,9,com_1,com_2,False
+40,com_1,side,8,com_2,com_1,False
+41,com_1,side,7,com_1,com_2,False
+42,com_1,side,5,com_1,com_2,False
+43,com_1,side,6,com_2,com_1,False
+44,com_1,side,6,com_2,com_1,False
+45,com_1,side,9, , ,True
+46,com_1,side,9,com_1,com_2,False
+47,com_1,side,9,com_1,com_2,False
+48,com_1,side,7,com_1,com_2,False
+49,com_1,side,8,com_2,com_1,False
+50,com_1,side,9,com_1,com_2,False
+51,com_1,side,5,com_1,com_2,False
+52,com_1,side,8,com_2,com_1,False
+53,com_1,side,7,com_1,com_2,False
+54,com_1,side,7,com_1,com_2,False
+55,com_1,side,8,com_2,com_1,False
+56,com_1,side,6,com_2,com_1,False
+57,com_1,side,8,com_2,com_1,False
+58,com_1,side,8,com_2,com_1,False
+59,com_1,side,9, , ,True
+60,com_1,side,8,com_2,com_1,False
+61,com_1,side,6,com_2,com_1,False
+62,com_1,side,9,com_1,com_2,False
+63,com_1,side,9, , ,True
+64,com_1,side,7,com_1,com_2,False
+65,com_1,side,8,com_2,com_1,False
+66,com_1,side,6,com_2,com_1,False
+67,com_1,side,7,com_1,com_2,False
+68,com_1,side,6,com_2,com_1,False
+69,com_1,side,9,com_1,com_2,False
+70,com_1,side,8,com_2,com_1,False
+71,com_1,side,5,com_1,com_2,False
+72,com_1,side,6,com_2,com_1,False
+73,com_1,side,7,com_1,com_2,False
+74,com_1,side,8,com_2,com_1,False
+75,com_1,side,8,com_2,com_1,False
+76,com_1,side,5,com_1,com_2,False
+77,com_1,side,9, , ,True
+78,com_1,side,9, , ,True
+79,com_1,side,9,com_1,com_2,False
+80,com_1,side,7,com_1,com_2,False
+81,com_1,side,8,com_2,com_1,False
+82,com_1,side,6,com_2,com_1,False
+83,com_1,side,8,com_2,com_1,False
+84,com_1,side,8,com_2,com_1,False
+85,com_1,side,9,com_1,com_2,False
+86,com_1,side,8,com_2,com_1,False
+87,com_1,side,9, , ,True
+88,com_1,side,7,com_1,com_2,False
+89,com_1,side,8,com_2,com_1,False
+90,com_1,side,7,com_1,com_2,False
+91,com_1,side,9,com_1,com_2,False
+92,com_1,side,9, , ,True
+93,com_1,side,9,com_1,com_2,False
+94,com_1,side,9,com_1,com_2,False
+95,com_1,side,9,com_1,com_2,False
+96,com_1,side,8,com_2,com_1,False
+97,com_1,side,7,com_1,com_2,False
+98,com_1,side,8,com_2,com_1,False
+99,com_1,side,9,com_1,com_2,False
+100,com_1,side,7,com_1,com_2,False
